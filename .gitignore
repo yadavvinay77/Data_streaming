@@ -1,0 +1,13 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+
+# PySpark logs
+*.log
+
+# Virtual environments
+.env/
+venv/
+
+# Mac files
+.DS_Store
