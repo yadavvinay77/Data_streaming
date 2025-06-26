@@ -1,0 +1,6 @@
+# requirements.txt
+pyspark>=3.4.0
+tabulate
+matplotlib
+numpy
+setuptools
